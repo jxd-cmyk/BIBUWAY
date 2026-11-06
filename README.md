@@ -4,11 +4,18 @@
 
 ## Big Bug is Watching You: Your Smart Diary
 
-* Bring personal reminders and practical Windows monitoring together in one desktop app. See your day of life, keep track of anniversaries and recurring tasks, and review changes detected in the files, folders, websites, and programs you choose.
+* Bring personal reminders and practical Windows monitoring together in one desktop app.
+* See your day of life, keep track of anniversaries and recurring tasks, and review changes detected in the files, folders, websites, and programs you choose.
 
 ## What BIBUWAY does
 
-BIBUWAY is a personal diary and change monitor for Windows. It shows reminders and reports changes found during its checks. A scan means one round of checks. BIBUWAY scans when it starts and normally checks again every two hours while it is running and not paused. It can also check immediately when you click SCAN NOW or save settings. BIBUWAY checks at intervals. A brief change that happens and disappears between scans may not be detected.
+* BIBUWAY is a personal diary and change monitor for Windows.
+* It shows reminders and reports changes found during its checks.
+* A scan means one round of checks.
+* BIBUWAY scans when it starts and normally checks again every two hours while it is running and not paused.
+* It can also check immediately when you click SCAN NOW or save settings.
+* BIBUWAY checks at intervals.
+* A brief change that happens and disappears between scans may not be detected.
 
 <img width="256" height="256" alt="BIBUWAY-256-1" src="https://github.com/user-attachments/assets/f264cf44-a53c-42fc-ac73-13d9a68574c2" />
 
@@ -30,9 +37,11 @@ https://jxd.cz/bibuway-user-guide/
 
 ## FOLLOW THE CHANGES THAT MATTER
 
-Monitor individual files for creation, deletion, and changes, with optional content fingerprints. Watch files inside selected folders and their subfolders. Compare the downloaded text of public web pages, check whether named programs are running, and test connections to public internet destinations.
-
-BIBUWAY also reports decreases in free space on your C: drive and compares its own executable with a saved reference to help you notice application changes.
+* Monitor individual files for creation, deletion, and changes, with optional content fingerprints.
+* Watch files inside selected folders and their subfolders.
+* Compare the downloaded text of public web pages, check whether named programs are running, and test connections to public internet destinations.
+* BIBUWAY also reports decreases in free space on your C: drive.
+* Compares its own executable with a saved reference to help you notice application changes.
 
 
 
