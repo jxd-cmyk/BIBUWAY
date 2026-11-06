@@ -41,7 +41,7 @@ https://jxd.cz/bibuway-user-guide/
 * Watch files inside selected folders and their subfolders.
 * Compare the downloaded text of public web pages, check whether named programs are running, and test connections to public internet destinations.
 * BIBUWAY also reports decreases in free space on your C: drive.
-* Compares its own executable with a saved reference to help you notice application changes.
+* BIBUWAY compares its own executable with a saved reference to help you notice application changes.
 
 
 
