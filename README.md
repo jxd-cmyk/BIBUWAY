@@ -1,11 +1,10 @@
 # BIBUWAY
-Big Bug is Watching You: Your Smart Diary
-
 
 <img width="1403" height="1106" alt="BIBUWAY" src="https://github.com/user-attachments/assets/b098c36b-6c7d-41bb-bbfa-e7b9bbffc0f3" />
 
+## Big Bug is Watching You: Your Smart Diary
 
-## Bring personal reminders and practical Windows monitoring together in one desktop app. See your day of life, keep track of anniversaries and recurring tasks, and review changes detected in the files, folders, websites, and programs you choose.
+* Bring personal reminders and practical Windows monitoring together in one desktop app. See your day of life, keep track of anniversaries and recurring tasks, and review changes detected in the files, folders, websites, and programs you choose.
 
 ## What BIBUWAY does
 
