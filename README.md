@@ -67,9 +67,10 @@ Organization: JXD VibeLabs
 
 Contact: jxd@jxd.cz
 
-Tux © Larry Ewing
-
-
 ## Download BIBUWAY from the Microsoft Store
 
 https://apps.microsoft.com/detail/9n2qxlzmr8st?hl=en-US&gl=CZ
+
+<img width="500" height="500" alt="JXD VibeLabs_white_500" src="https://github.com/user-attachments/assets/5ed94d8d-e7cb-4c7b-8ea9-c530659348df" />
+
+Tux © Larry Ewing
