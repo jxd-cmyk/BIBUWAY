@@ -1,5 +1,7 @@
 # BIBUWAY
 
+*Cyber Wabi-Sabi: The Beauty of Simplicity* 
+
 <img width="1403" height="1106" alt="BIBUWAY" src="https://github.com/user-attachments/assets/b098c36b-6c7d-41bb-bbfa-e7b9bbffc0f3" />
 
 ## Big Bug is Watching You: Your Smart Diary
